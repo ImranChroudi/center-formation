@@ -1,0 +1,524 @@
+① Hero section
+
+C’est la section la plus importante.
+Une grande photo ou vidéo professionnelle d’elle en train de s’entraîner.
+Texte :
+Entraînez-vous avec une championne marocaine.
+Puis :
+Séances privées de Kickboxing et Personal Training pour femmes à Tanger.
+CTA :
+Réserver ma première séance
+CTA secondaire :
+Découvrir mon histoire
+Et juste en dessous :
+🏆 Championne du Maroc 🥊 Coach de Kickboxing 📍 Tanger
+
+Preuve sociale immédiatement après le Hero
+Puisqu’elle possède 14,6K abonnés sur Instagram, il faut utiliser cette crédibilité.
+Par exemple :
+Rejoignez une communauté de femmes qui suivent son parcours
+Puis :
+14,6K+ abonnés Instagram
+Championne du Maroc
+Personal Trainer
+Attention : ne pas inventer des chiffres comme « 500+ clientes » si elle ne vous donne pas réellement ces chiffres.
+On peut également afficher :
+⭐⭐⭐⭐⭐
+Ce que disent ses clientes
+avec de vrais témoignages.
+
+
+
+
+🌟 Ce que tu peux construire avec le Kickboxing
+Le Kickboxing ne transforme pas seulement le corps. Il peut aussi t'aider à te sentir plus forte, plus confiante et plus sereine au quotidien.
+⚖️ Tu veux travailler ton poids
+Un entraînement dynamique pour augmenter ta dépense physique, améliorer ta condition et accompagner ton objectif de transformation corporelle.
+🧠 Tu veux évacuer le stress
+Le sport peut être un véritable défoulement pour relâcher les tensions et te permettre de te sentir mieux après chaque séance.
+🫶 Tu manques de confiance en toi
+Les entraînements t'aident progressivement à développer ta confiance, à dépasser tes limites et à te sentir plus forte.
+🛡️ Tu veux apprendre à te défendre
+Apprends les bases du Kickboxing et développe tes réflexes pour être plus à l'aise face à une situation qui demande de te protéger.
+😨 Tu as peur ou tu te sens souvent intimidée
+L'entraînement peut t'aider à prendre davantage confiance en tes capacités et à ne plus te sentir aussi vulnérable.
+💪 Tu veux renforcer ta personnalité
+Développe discipline, détermination et assurance à travers une pratique sportive régulière. 
+
+
+
+⑤ Services
+Comme elle n'a pas encore répondu précisément à la question sur les services, je ne créerais pas encore de fausses offres comme « Private Kickboxing », « Personal Training », etc.
+Tu peux garder une structure temporaire :
+Titre
+Choisis ton objectif. Construisons ton entraînement.
+Cartes
+🥊 Kickboxing
+Apprends les techniques du Kickboxing, améliore ton cardio et défoule-toi à travers un entraînement complet.
+💪 Fitness & transformation
+Travaille ton corps, ta condition physique et tes objectifs de poids à travers un programme adapté.
+🛡️ Self-défense
+Développe tes réflexes et apprends les bases nécessaires pour mieux te défendre.
+🔥 Kickboxing + Fitness
+Combine technique, cardio et préparation physique pour un entraînement complet.
+CTA
+Découvrir les entraînements → 
+
+
+⑥ Suivi de progression
+I strongly recommend keeping this because it differentiates the website from a normal coach website.
+Ton évolution ne s'arrête pas à la fin de la séance.
+Poids, mensurations et photos de progression peuvent être suivis chaque mois pour te permettre de voir concrètement le chemin parcouru.
+Then:
+📅 Mois 1
+      ↓
+⚖️ Poids
+📏 Mensurations
+📸 Photos
+
+      ↓
+
+📅 Mois 2
+      ↓
+⚖️ Poids
+📏 Mensurations
+📸 Photos
+
+      ↓
+
+📅 Mois 3
+      ↓
+📈 Progression
+
+
+
+④ Pour qui ?
+I would put your age section before Services.
+Un entraînement adapté à chaque âge
+Que tu sois une enfant, une adolescente ou une femme, tu peux commencer à ton niveau.
+👧 Enfants	👧 Adolescentes	👩 Femmes
+6–12 ans	13–17 ans	18 ans et +
+Découvrir le Kickboxing en s'amusant et développer confiance, coordination et discipline.	Se défouler, progresser et développer force, technique et confiance.	Transformer son corps, apprendre à se défendre et devenir plus forte.
+Découvrir →	Découvrir →	Découvrir →
+  
+
+
+⑬ FAQ
+Je suis débutante, est-ce que je peux commencer ?
+Oui. Les entraînements peuvent être adaptés au niveau et à l'expérience de chaque femme.
+Est-ce que le Kickboxing est réservé aux femmes sportives ?
+Non. L'objectif est justement de progresser à son propre rythme.
+Est-ce que je peux venir uniquement pour perdre du poids ?
+L'entraînement peut accompagner un objectif de transformation physique et de remise en forme.
+Est-ce que je peux apprendre à me défendre ?
+Oui, le Kickboxing permet notamment de développer des techniques, des réflexes et de la confiance utiles pour la self-défense.
+Où se déroulent les séances ?
+📍 À confirmer selon le lieu exact des entraînements.
+Comment réserver une séance ?
+Tu peux réserver directement via le bouton de réservation ou contacter la coach sur WhatsApp.
+
+ 
+
+ ⑩ Localisation
+Entraîne-toi à Tanger 🇲🇦
+Des séances de Kickboxing et de coaching pour filles et femmes à Tanger.
+📍 Lieu : [à confirmer]
+📍 Quartiers : [à confirmer]
+[Voir la localisation →]
+
+
+Hero                    → Réserver
+Benefits                → Réserver
+Services                → Réserver
+Age groups              → Réserver
+Final CTA               → Réserver
+
+
+
+
+
+Exactly. In that case, **your reservation calendar should depend on the session type** because a private session and a group session have different availability rules.
+
+## 🥊 Two types of sessions
+
+### 1. 👤 Séance privée
+
+**1 coach → 1 cliente**
+
+Example:
+
+```text
+Private Kickboxing
+1 personne
+60 min
+```
+
+The coach can have:
+
+```text
+09:00 → Available
+10:00 → Available
+11:00 → Available
+```
+
+When one woman books **10:00**, that slot becomes unavailable for another private booking.
+
+```text
+10:00
+❌ Private session booked
+```
+
+---
+
+### 2. 👥 Séance en groupe
+
+**1 coach → plusieurs participantes**
+
+For example:
+
+```text
+Group Kickboxing
+Maximum: 10 personnes
+60 min
+```
+
+The calendar should show:
+
+```text
+Monday 17 August
+
+18:00
+👥 Group Kickboxing
+7 / 10 places available
+
+19:30
+👥 Group Kickboxing
+10 / 10
+FULL
+```
+
+If Sara books:
+
+```text
+7 / 10
+```
+
+it becomes:
+
+```text
+8 / 10
+```
+
+Another woman can still book the same session.
+
+Only when:
+
+```text
+10 / 10
+```
+
+should the system show:
+
+**Complet**
+
+---
+
+# 🗓️ So your reservation flow should change
+
+Instead of:
+
+```text
+Choose training
+      ↓
+Choose date
+      ↓
+Choose time
+```
+
+I recommend:
+
+```text
+Choose session type
+        ↓
+   ┌────┴────┐
+   ↓         ↓
+Private     Group
+   ↓         ↓
+   Calendar / available slots
+        ↓
+Choose date
+        ↓
+Choose time
+        ↓
+Personal information
+        ↓
+Reservation
+```
+
+---
+
+# 👤 Private booking
+
+For example:
+
+### **Choisis ton type de séance**
+
+**👤 Séance privée**
+
+> Un entraînement individuel entièrement adapté à ton niveau et à tes objectifs.
+
+`Choisir`
+
+Then:
+
+### **Disponibilités**
+
+```text
+        AOÛT 2026
+
+Lun Mar Mer Jeu Ven Sam Dim
+
+17  18  19  20  21  22  23
+●   ●   ●   ●   ●   ●   ●
+```
+
+Select:
+
+**Mardi 18 août**
+
+```text
+09:00  Disponible
+10:00  Disponible
+11:00  Indisponible
+17:00  Disponible
+18:00  Disponible
+19:00  Indisponible
+```
+
+---
+
+# 👥 Group booking
+
+The calendar works differently.
+
+### **👥 Séance en groupe**
+
+> Entraîne-toi avec d'autres femmes dans une ambiance motivante et dynamique.
+
+Select date:
+
+```text
+Mardi 18 août
+
+17:00
+🥊 Kickboxing Groupe
+8 / 10 places
+[Réserver]
+
+19:00
+🥊 Kickboxing Groupe
+10 / 10 places
+[Complet]
+```
+
+When she selects 17:00:
+
+```text
+Séance en groupe
+────────────────
+
+📅 Mardi 18 août
+🕐 17:00
+👥 8 / 10 participantes
+
+Il reste 2 places.
+```
+
+---
+
+# 🗄️ Database design
+
+This changes your database slightly.
+
+I would have a `session_types` table:
+
+```text
+session_types
+─────────────
+id
+name
+type
+description
+duration
+max_participants
+price
+active
+```
+
+For example:
+
+```text
+1 | Kickboxing privé | PRIVATE | ... | 60 | 1  | 300 DH
+2 | Kickboxing groupe| GROUP   | ... | 60 | 10 | 150 DH
+```
+
+Then you need actual scheduled sessions:
+
+```text
+sessions
+────────
+id
+session_type_id
+date
+start_time
+end_time
+status
+```
+
+And reservations:
+
+```text
+reservations
+────────────
+id
+session_id
+client_id
+status
+created_at
+```
+
+The important relationship is:
+
+```text
+Session Type
+     │
+     ├── Private
+     │      ↓
+     │   Session
+     │      ↓
+     │   1 reservation
+     │
+     └── Group
+            ↓
+         Session
+            ↓
+       1 → 10 reservations
+```
+
+---
+
+# 🔥 This gives you much more flexibility
+
+For example, the coach could create:
+
+```text
+Monday
+
+09:00 → Private → max 1
+10:00 → Private → max 1
+17:00 → Group → max 10
+18:30 → Group → max 10
+20:00 → Private → max 1
+```
+
+And the calendar automatically calculates availability.
+
+### Private
+
+```text
+Capacity = 1
+Booked = 1
+
+1 - 1 = 0
+
+❌ Unavailable
+```
+
+### Group
+
+```text
+Capacity = 10
+Booked = 7
+
+10 - 7 = 3
+
+✅ 3 places remaining
+```
+
+---
+
+## 👩‍💼 Admin side
+
+This is also important.
+
+The coach should be able to create/manage sessions:
+
+### **Créer une séance**
+
+```text
+Type
+[ Séance privée ▼ ]
+
+Date
+[ 18/08/2026 ]
+
+Heure début
+[ 09:00 ]
+
+Durée
+[ 60 min ]
+
+Prix
+[ 300 DH ]
+
+[Créer la séance]
+```
+
+Or:
+
+```text
+Type
+[ Séance en groupe ▼ ]
+
+Date
+[ 18/08/2026 ]
+
+Heure
+[ 17:00 ]
+
+Durée
+[ 60 min ]
+
+Nombre maximum
+[ 10 ]
+
+Prix
+[ 150 DH ]
+
+[Créer la séance]
+```
+
+Then the dashboard shows:
+
+```text
+📅 Aujourd'hui
+
+09:00  👤 Private
+       Sara
+       🟢 Confirmée
+
+17:00  👥 Group
+       8 / 10 participantes
+       🟢 2 places restantes
+
+18:30  👥 Group
+       10 / 10
+       🔴 Complet
+```
+
+### One important point
+
+Don't make **"Private" and "Group" just a filter on the calendar**. They should be a real concept in your database because their **capacity, booking logic, and availability rules are different**.
+
+That will make your reservation system much easier to extend later—for example, if she eventually offers **women-only groups, children's groups, different prices, recurring classes, or multiple coaches**.
+ 
